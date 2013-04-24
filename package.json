@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-skeleton",
+  "version": "0.0.0",
+  "description": "Node.js Skeleton",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/nodejs-skeleton",
+  "keywords": [
+    "node"
+  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://mths.be/mit"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/nodejs-skeleton.git"
+  },
+  
+  "dependencies": {
+    "request": "latest",
+    "express": "latest"
+  }
+}
